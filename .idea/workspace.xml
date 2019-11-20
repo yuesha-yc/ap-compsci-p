@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972c1862-93cd-42c1-bcb9-a5e3e16c517e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Files-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files-notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapump.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AP CSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AP CSP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PSet02SourceCode" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esjdn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wbd.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +29,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PSet01SourceCode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SMCIAmWUYfvFdOkQh6RM22WsI9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -44,8 +57,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testcreditcard">
-    <configuration name="Dict-functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Files-exercise">
+    <configuration name="Files-exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +70,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dict-functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files-exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Files-notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files-notes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,34 +184,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testpolybiuscipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab08PolybiusCipher" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab08PolybiusCipher/testpolybiuscipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Files-exercise" />
+        <item itemvalue="Python.Files-notes" />
         <item itemvalue="Python.testcreditcard" />
         <item itemvalue="Python.credit" />
         <item itemvalue="Python.creditcard" />
-        <item itemvalue="Python.Dict-functions" />
-        <item itemvalue="Python.testpolybiuscipher" />
       </list>
     </recent_temporary>
   </component>
@@ -206,5 +219,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
