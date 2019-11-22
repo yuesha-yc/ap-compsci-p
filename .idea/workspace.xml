@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972c1862-93cd-42c1-bcb9-a5e3e16c517e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Files-exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files-notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datapump.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AP CSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AP CSP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esjdn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wbd.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +49,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Files-exercise">
+  <component name="RunManager" selected="Python.Dict-01">
+    <configuration name="Dict-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dict-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Files-exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="credit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="substitutioncipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet10CreditCard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab09SubstitutionCipher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet10CreditCard/credit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab09SubstitutionCipher/substitutioncipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,55 +155,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="creditcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in testsubstitutioncipher.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet10CreditCard" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab09SubstitutionCipher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet10CreditCard/creditcard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testcreditcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet10CreditCard" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet10CreditCard/testcreditcard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lab09SubstitutionCipher/testsubstitutioncipher.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dict-01" />
+        <item itemvalue="Python tests.Unittests in testsubstitutioncipher.py" />
+        <item itemvalue="Python.substitutioncipher" />
         <item itemvalue="Python.Files-exercise" />
         <item itemvalue="Python.Files-notes" />
-        <item itemvalue="Python.testcreditcard" />
-        <item itemvalue="Python.credit" />
-        <item itemvalue="Python.creditcard" />
       </list>
     </recent_temporary>
   </component>
