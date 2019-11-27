@@ -16,3 +16,5 @@ def inventory():
 
 result = inventory()
 print(result)
+
+# DNA to RNA Transcription

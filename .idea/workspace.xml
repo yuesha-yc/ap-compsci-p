@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972c1862-93cd-42c1-bcb9-a5e3e16c517e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/cspTest02Fall2015.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/cspTest02Fall2016.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/cspTest02Fall2017.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/cspTest02Fall2018.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05FilesNotes/airpollution.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05FilesNotes/airpollution01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05FilesNotes/airpollution02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03TestPrepares/cspNotes03PythonLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/cspNotes03PythonLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03TestPrepares/cspTest01Fall2016Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/03TestPrepares/Test01/cspTest01Fall2016Notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03TestPrepares/cspTest01Fall2017Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/03TestPrepares/Test01/cspTest01Fall2017Notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03TestPrepares/cspTest01Fall2018Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/03TestPrepares/Test01/cspTest01Fall2018Notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dict-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Dict-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dict-exercise-self.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Dict-exercise-self.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dict-exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Dict-exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dict-functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Dict-functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dict-methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Dict-methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/04List-DictionaryNotes/Exercise-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files-exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/05FilesNotes/Files-exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files-notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/05FilesNotes/Files-notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datapump.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05FilesNotes/datapump.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mailbox.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05FilesNotes/mailbox.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbox.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05FilesNotes/mbox.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +35,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/03TestPrepares/Test02" />
       <recent name="$PROJECT_DIR$/03TestPrepares/Test01" />
       <recent name="$PROJECT_DIR$/04List-DictionaryNotes" />
       <recent name="$PROJECT_DIR$/05FilesNotes" />
-      <recent name="$PROJECT_DIR$/02List-DictionaryNotes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,49 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test02Fall2018">
-    <configuration name="36素数判定" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/信息技术" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/信息技术/36素数判定.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="43" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/信息技术" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/信息技术/43.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.testvigenerecipher">
     <configuration name="Test02Fall2018" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="airpollution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testcaesarcipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05FilesNotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab07CaesarCipher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05FilesNotes/airpollution01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab07CaesarCipher/testcaesarcipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="airpollution02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testvigenerecipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,26 +126,61 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05FilesNotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet11VigenereCipher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05FilesNotes/airpollution02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet11VigenereCipher/testvigenerecipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vigenerecipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet11VigenereCipher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet11VigenereCipher/vigenerecipher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testvigenerecipher.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet11VigenereCipher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PSet11VigenereCipher/testvigenerecipher.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testvigenerecipher" />
+        <item itemvalue="Python tests.Unittests in testvigenerecipher.py" />
+        <item itemvalue="Python.vigenerecipher" />
+        <item itemvalue="Python.testcaesarcipher" />
         <item itemvalue="Python.Test02Fall2018" />
-        <item itemvalue="Python.airpollution02" />
-        <item itemvalue="Python.airpollution" />
-        <item itemvalue="Python.36素数判定" />
-        <item itemvalue="Python.43" />
       </list>
     </recent_temporary>
   </component>
