@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972c1862-93cd-42c1-bcb9-a5e3e16c517e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/信息技术/44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/2018MCQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03TestPrepares/Test02/addtionalQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/信息技术/QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/信息技术/微信/微信好友.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/信息技术/微信/自动回复.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PSet02SourceCode/fahrenheit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/信息技术/75.py" beforeDir="false" afterPath="$PROJECT_DIR$/信息技术/75.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/信息技术/会考模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/信息技术/会考模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/信息技术/44.py" beforeDir="false" afterPath="$PROJECT_DIR$/信息技术/44.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,15 +40,15 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/信息技术/微信" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/03TestPrepares/Test02" />
       <recent name="$PROJECT_DIR$/03TestPrepares/Test01" />
       <recent name="$PROJECT_DIR$/04List-DictionaryNotes" />
-      <recent name="$PROJECT_DIR$/05FilesNotes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,8 +63,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.75">
-    <configuration name="会考模拟" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.微信好友">
+    <configuration name="微信好友" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/信息技术/会考模拟.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/信息技术/微信/微信好友.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="75" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2018MCQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +93,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/信息技术" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03TestPrepares/Test02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/信息技术/75.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03TestPrepares/Test02/2018MCQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test02Fall2016" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03TestPrepares/Test02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2016.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test02Fall2018" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AP CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03TestPrepares/Test02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03TestPrepares/Test02/Test02Fall2018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requestline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="addtionalQuestions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,53 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab10RequestLine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03TestPrepares/Test02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab10RequestLine/requestline.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testrequestline" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab10RequestLine" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab10RequestLine/testrequestline.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testvigenerecipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AP CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PSet11VigenereCipher" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PSet11VigenereCipher/testvigenerecipher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03TestPrepares/Test02/addtionalQuestions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.75" />
-        <item itemvalue="Python.会考模拟" />
-        <item itemvalue="Python.testrequestline" />
-        <item itemvalue="Python.requestline" />
-        <item itemvalue="Python.testvigenerecipher" />
+        <item itemvalue="Python.微信好友" />
+        <item itemvalue="Python.2018MCQ" />
+        <item itemvalue="Python.Test02Fall2016" />
+        <item itemvalue="Python.Test02Fall2018" />
+        <item itemvalue="Python.addtionalQuestions" />
       </list>
     </recent_temporary>
   </component>
