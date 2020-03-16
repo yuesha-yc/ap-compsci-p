@@ -44,9 +44,9 @@ if switch == "开始群发":
         province = i["Province"]
         city = i["City"]
         if sex == 1:
-            itchat.send_msg("身在" + province + city + "的男性朋友，" + nickname + "今天是" + holiday +  " ，祝你节日快乐！", toUserName=None)
+            itchat.send_msg("身在" + province + city + "的" + nickname + "今天是" + holiday +  " ，祝你节日快乐！", toUserName=None)
         else:
-            itchat.send_msg("身在" + province + city + "的女性朋友，" + nickname + "今天是" + holiday +  " ，祝你节日快乐！", toUserName=None)
+            itchat.send_msg("身在" + province + city + "的" + nickname + "今天是" + holiday +  " ，祝你节日快乐！", toUserName=None)
 
 # 小助手
 from itchat.content import *
