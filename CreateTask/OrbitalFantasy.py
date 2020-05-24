@@ -9,6 +9,7 @@
 | This is AP Computer Science Principles - Create Task Programming
 | This is a game that allows you to customize three-body planetary motion at three-dimensional scale.
 | Newtonian mechanics and gravitational mechanics are used to simulate the motion.
+| This program requires Numpy and PyGame modules to run. Use command line or built-in IDE installer to install the modules.
 |
 """
 
