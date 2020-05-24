@@ -30,9 +30,9 @@ rEarth = 1.
 pygame.init()
 
 # Initialize Files
-background_image_filename = 'starfield1000.png'
+background_image_filename = 'starfield.png'
 mouse_image_filename = 'mouse.png'
-star_image_filename = 'sun.png'
+star_image_filename = 'transparent/arcturus.png'
 planet_p_image_filename = 'earthlike.png'
 planet_q_image_filename = 'gasgiantblue.png'
 
