@@ -575,24 +575,30 @@ def game_loop():
             Clock = font_30.render("Time Elapsed: " + str(round(t / 86400 / 365, 2)) + "years", True, white, blue)
             Mass_P = font_20.render("Mass=" + str(round(mp, 2)) + "kg", True, white, black)
             Radius_P = font_20.render("Radius=" + str(round(rp, 2)) + "AU", True, white, black)
-            Velocity_P = font_20.render("Velocity=" + str(vp/auperm/24/3600) + "m/s", True, white, black)
-            Acceleration_P = font_20.render("Acceleration=" + str(ap/auperm/24/3600/24/3600) + "m/s^2", True, white, black)
-            Force_P = font_20.render("Force=" + str(round(Fp/auperm/24/3600/24/3600, 2)) + "N", True, white, black)
+            Velocity_P = font_20.render("Velocity=" + str(vp / auperm / 24 / 3600) + "m/s", True, white, black)
+            Acceleration_P = font_20.render("Acceleration=" + str(ap / auperm / 24 / 3600 / 24 / 3600) + "m/s^2", True,
+                                            white, black)
+            Force_P = font_20.render("Force=" + str(round(Fp / auperm / 24 / 3600 / 24 / 3600, 2)) + "N", True, white,
+                                     black)
             Inclination_P = font_20.render("Inclination=" + str(round(ip, 4)) + "Degrees", True, white, black)
             Eccentricity_P = font_20.render("Eccentricity=" + str(round(ep, 4)), True, white, black)
             if Ep < 0:
-                TotalEnergy_P = font_20.render("TotalEnergy=" + str(round(Ep/auperm/auperm/24/3600/24/3600, 2)) + "J, PLANET IN BOUND!",
+                TotalEnergy_P = font_20.render("TotalEnergy=" + str(
+                    round(Ep / auperm / auperm / 24 / 3600 / 24 / 3600, 2)) + "J, PLANET IN BOUND!",
                                                True, white, black)
             else:
                 TotalEnergy_P = font_20.render(
-                    "TotalEnergy=" + str(round(Ep/auperm/auperm/24/3600/24/3600, 2)) + "J, PLANET OUT OF BOUND!",
+                    "TotalEnergy=" + str(
+                        round(Ep / auperm / auperm / 24 / 3600 / 24 / 3600, 2)) + "J, PLANET OUT OF BOUND!",
                     True, white, black)
 
             Mass_Q = font_20.render("Mass=" + str(round(mq, 2)) + "kg", True, white, black)
             Radius_Q = font_20.render("Radius=" + str(round(rq, 2)) + "AU", True, white, black)
             Velocity_Q = font_20.render("Velocity=" + str(vq / auperm / 24 / 3600) + "m/s", True, white, black)
-            Acceleration_Q = font_20.render("Acceleration=" + str(aq / auperm / 24 / 3600 / 24 / 3600) + "m/s^2", True,white, black)
-            Force_Q = font_20.render("Force=" + str(round(Fq / auperm / 24 / 3600 / 24 / 3600, 2)) + "N", True, white,black)
+            Acceleration_Q = font_20.render("Acceleration=" + str(aq / auperm / 24 / 3600 / 24 / 3600) + "m/s^2", True,
+                                            white, black)
+            Force_Q = font_20.render("Force=" + str(round(Fq / auperm / 24 / 3600 / 24 / 3600, 2)) + "N", True, white,
+                                     black)
             Inclination_Q = font_20.render("Inclination=" + str(round(iq, 4)) + "Degrees", True, white, black)
             Eccentricity_Q = font_20.render("Eccentricity=" + str(round(eq, 4)), True, white, black)
             if Eq < 0:
