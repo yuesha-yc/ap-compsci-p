@@ -1,4 +1,16 @@
-# _*_ coding: utf-8 _*_
+"""
+|-------------------------------------------------------------------------------
+| OrbitalFantasy.py
+|-------------------------------------------------------------------------------
+|
+| Author:  Yichen Wang
+| Created: May 25, 2020
+|
+| This is AP Computer Science Principles - Create Task Programming
+| This is a game that allows you to customize three-body planetary motion at three-dimensional scale.
+| Newtonian mechanics and gravitational mechanics are used to simulate the motion.
+|
+"""
 
 import pygame
 from pygame.locals import *
