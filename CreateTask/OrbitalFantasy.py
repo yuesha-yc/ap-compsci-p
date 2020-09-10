@@ -3,13 +3,12 @@
 | OrbitalFantasy.py
 |-------------------------------------------------------------------------------
 |
-| Author:  Yichen Wang
-| Created: May 25, 2020
+| Last Edited: May 25, 2020
 |
-| This is AP Computer Science Principles - Create Task Programming
+| This is for AP Computer Science Principles - Create Task Programming Code
 | This is a game that allows you to customize three-body planetary motion at three-dimensional scale.
 | Newtonian mechanics and gravitational mechanics are used to simulate the motion.
-| This program requires Numpy and PyGame modules to run. Use command line or built-in IDE installer to install the modules.
+| Acknowledgement: This program uses functions and methods in Numpy and PyGame modules to run. Use command line or built-in IDE installer to install the modules.
 |
 """
 
@@ -409,7 +408,6 @@ def game_loop():
         for event in pygame.event.get():
             if event.type == QUIT:
                 exit()
-
         # The Canvas
 
         screen.blit(background, (0, 0))  # draw the background
@@ -446,11 +444,6 @@ def game_loop():
         screen.blit(planet_p, (460 + 180, 460))
         screen.blit(planet_q, (460 + 180, 640))
         screen.blit(star, (460 + 180, 820))
-
-        # positionp = planet_p.get_rect()
-        # screen.blit(planet_p, positionp)
-        # positionq = planet_q.get_rect()
-        # screen.blit(planet_q, positionq)
 
         pygame.display.update()  # and show it all
 
