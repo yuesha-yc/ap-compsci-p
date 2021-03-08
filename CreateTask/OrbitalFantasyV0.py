@@ -1,13 +1,11 @@
 # _*_ coding: utf-8 _*_
 
+import math
+from sys import exit
+
+import numpy as np
 import pygame
 from pygame.locals import *
-import matplotlib.pyplot as plt
-import numpy as np
-import math
-import time
-
-from sys import exit
 
 # Initialize Constants
 # pi
@@ -107,19 +105,19 @@ while True:
         if event.type == QUIT:
             exit()
 
-    screen.blit(background, (0, 0))        # draw the background
-    screen.blit(title, (0, 0))        #draw the text
-    screen.blit(star, (380, 380)) # draw star
+    screen.blit(background, (0, 0))  # draw the background
+    screen.blit(title, (0, 0))  # draw the text
+    screen.blit(star, (380, 380))  # draw star
 
     positionp = planet_p.get_rect()
-    screen.blit(planet_p, positionp)          #draw the player
+    screen.blit(planet_p, positionp)  # draw the player
 
     positionq = planet_q.get_rect()
-    screen.blit(planet_q, positionq)          #draw the player
+    screen.blit(planet_q, positionq)  # draw the player
 
-    pygame.display.update()                #and show it all
+    pygame.display.update()  # and show it all
 
-    for x in range(0, tlimit, 1):   #animate 100 frames
+    for x in range(0, tlimit, 1):  # animate 100 frames
 
         for event in pygame.event.get():
             if event.type == QUIT:
@@ -189,14 +187,14 @@ while True:
         # Update Time
         t += tsteps
 
-        screen.blit(background, (0,0)) #erase
-        screen.blit(star, (380, 380)) # draw star
-        screen.blit(title, (0, 0)) # draw the text
-        positionp = (int(xp1 * 50 + 400 - 5), int(yp1 * 50 + 400 - 5)) #move player
-        positionq = (int(xq1 * 50 + 400 - 5), int(yq1 * 50 + 400 - 5)) #move player
+        screen.blit(background, (0, 0))  # erase
+        screen.blit(star, (380, 380))  # draw star
+        screen.blit(title, (0, 0))  # draw the text
+        positionp = (int(xp1 * 50 + 400 - 5), int(yp1 * 50 + 400 - 5))  # move player
+        positionq = (int(xq1 * 50 + 400 - 5), int(yq1 * 50 + 400 - 5))  # move player
 
-        screen.blit(planet_p, positionp) #draw new player
-        screen.blit(planet_q, positionq) #draw new player
+        screen.blit(planet_p, positionp)  # draw new player
+        screen.blit(planet_q, positionq)  # draw new player
 
-        pygame.display.update() #and show it all
+        pygame.display.update()  # and show it all
         pygame.time.delay(5)

@@ -1,6 +1,6 @@
 """
 |-------------------------------------------------------------------------------
-| OrbitalFantasy.py
+| OrbitalFantasyV1.py
 |-------------------------------------------------------------------------------
 |
 | Last Edited: May 25, 2020
@@ -12,12 +12,12 @@
 |
 """
 
+import math
+from sys import exit
+
+import numpy as np
 import pygame
 from pygame.locals import *
-import numpy as np
-import math
-
-from sys import exit
 
 # Initialize PyGame
 pygame.init()

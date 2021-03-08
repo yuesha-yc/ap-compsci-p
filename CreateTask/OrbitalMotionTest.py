@@ -1,13 +1,9 @@
 # _*_ coding: utf-8 _*_
 
+from sys import exit
+
 import pygame
 from pygame.locals import *
-import matplotlib.pyplot as plt
-import numpy as np
-import math
-import time
-
-from sys import exit
 
 background_image_filename = 'background.jpeg'
 mouse_image_filename = 'mouse.png'
@@ -39,22 +35,21 @@ while True:
         if event.type == QUIT:
             exit()
 
-    screen.blit(background, (0, 0))        #draw the background
-    screen.blit(star, (380, 380)) # draw star
+    screen.blit(background, (0, 0))  # draw the background
+    screen.blit(star, (380, 380))  # draw star
 
     position = player.get_rect()
     print(position)
-    screen.blit(player, position)          #draw the player
-    pygame.display.update()                #and show it all
+    screen.blit(player, position)  # draw the player
+    pygame.display.update()  # and show it all
 
-    for x in range(100):                   #animate 100 frames
+    for x in range(100):  # animate 100 frames
         for event in pygame.event.get():
             if event.type == QUIT:
                 exit()
-        screen.blit(background, (0, 0)) #erase
+        screen.blit(background, (0, 0))  # erase
         screen.blit(star, (380, 380))  # draw star
-        position = position.move(2, 0)     #move player
-        screen.blit(player, position)      #draw new player
-        pygame.display.update()            #and show it all
+        position = position.move(2, 0)  # move player
+        screen.blit(player, position)  # draw new player
+        pygame.display.update()  # and show it all
         pygame.time.delay(100)
-
