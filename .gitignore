@@ -38,9 +38,7 @@ remappedSrc/
 **/.DS_Store
 
 # Project
-/02Books/fiveStepsAPCSPrinciples.pdf
-/02Books/pythonForEverybody.pdf
-/02Books/B2B_3.pdf
+/02Books/
 /CreateTask/button_stop_off.pptx
 /CreateTask/Create.m4a
 /CreateTask/Create.mov
@@ -52,3 +50,4 @@ remappedSrc/
 /CreateTask/Program Code.pdf
 /ExploreTask/
 /ExamTasks/
+/venv/
